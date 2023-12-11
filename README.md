@@ -11,6 +11,7 @@ READ MEEEEEEEEEEEEE
 
 
 #Use Scrpy to mirror game screen on the computer (?) 
+
 2-Track Elixir {
   - App must be able to track opponent
   elixir and update it  as the game progresses
